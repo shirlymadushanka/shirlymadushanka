@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shirly Madushanka.</h1>
-<h3 align="center">A passionate fullstack developer from SriLanka.</h3>
+<h3 align="center">A Full Stack Developer.</h3>
 
-- 🌱 I’m currently learning **NestJs**
+- 🌱 I’m currently learning **.NET Core**
 
 - 📫 How to reach me **shirlyekanayake@gmail.com**
 
